@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import './App.css'
 
 // Change this accordingly
-const API_URL = 'https://abc-backend-production-47d735fe.up.railway.app/'
+const API_URL = 'https://abc-backend-production-47d735fe.up.railway.app'
 
 function App() {
   // Post state
